@@ -7,12 +7,12 @@
 
 <!--소개-->
 # **Introduction :raised_hands:**
-Hi, I am SK Yoon.<br/>
-Want to work as a Data Analyst!<br/>
-Contact me if you are interested in me or the project!<br/>
+Hi, I am SK Yoon.   
+Want to work as a Data Analyst!   
+Contact me if you are interested in me or the project!   
 
-안녕하세요!<br/>
-데이터 분석가를 희망합니다.<br/>
+안녕하세요!   
+데이터 분석가를 희망합니다.   
 저 또는 프로젝트에 관심이 있으시다면 주저말고 연락주세요!📞<br/><br/>
 
 <!--소개-->
@@ -50,18 +50,18 @@ Contact me if you are interested in me or the project!<br/>
 <!--프로젝트-->
  # **Projects 🧑‍💻**
 
-### **- FastCampus ByteDegree EXPORT** <a href="https://github.com/SKYoooon/EXPORT/tree/main" target="_blank"><img src="https://img.shields.io/badge/Link-181717?style=flat&logo=github&logoColor=white"/></a>
+### ** FastCampus ByteDegree EXPORT ** <a href="https://github.com/SKYoooon/EXPORT/tree/main" target="_blank"><img src="https://img.shields.io/badge/Link-181717?style=flat&logo=github&logoColor=white"/></a>
 
-#### **Final Project : 패스트캠퍼스 실제 데이터 분석** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Final" target="_blank"><img src="https://img.shields.io/badge/Link-181717?style=flat&logo=github&logoColor=white"/></a>
-
-
-#### **E-commerce** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce" target="_blank"><img src="https://img.shields.io/badge/Link-181717?style=flat&logo=github&logoColor=white"/></a>
+#### ** * Final Project : 패스트캠퍼스 실제 데이터 분석 ** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Final" target="_blank"><img src="https://img.shields.io/badge/Link-181717?style=flat&logo=github&logoColor=white"/></a>
 
 
-##### **E-commerce : '다잇다' 가상 쇼핑몰 데이터 분석** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce/Task2" target="_blank"><img src="https://img.shields.io/badge/Link-181717?style=flat&logo=github&logoColor=white"/></a>
+#### ** * E-commerce** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce" target="_blank"><img src="https://img.shields.io/badge/Link-181717?style=flat&logo=github&logoColor=white"/></a>
 
 
-##### **E-commerce : 온라인 커머스 데이터 분석** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce/Task1" target="_blank"><img src="https://img.shields.io/badge/Link-181717?style=flat&logo=github&logoColor=white"/></a>
+##### ** + E-commerce : '다잇다' 가상 쇼핑몰 데이터 분석** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce/Task2" target="_blank"><img src="https://img.shields.io/badge/Link-181717?style=flat&logo=github&logoColor=white"/></a>
+
+
+##### ** + E-commerce : 온라인 커머스 데이터 분석** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce/Task1" target="_blank"><img src="https://img.shields.io/badge/Link-181717?style=flat&logo=github&logoColor=white"/></a>
 
 
 
