@@ -15,7 +15,7 @@ Contact me if you are interested in me or the project!<br/>
 데이터 분석가/데이터 사이언티스트를 희망합니다.<br/>
 주저말고 연락주세요!<br/><br/>
 
-:e_mail: : skyoon7899@gmail.com<br/>
+📬 : skyoon7899@gmail.com<br/>
 
 <!--스킬-->
  ## **Skills :keyboard:**
