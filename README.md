@@ -8,12 +8,12 @@
 <!--소개-->
 ## **Introduction :raised_hands:**
 Hi, I am SK Yoon.<br/>
-Want to work as a Data Analyst/Data Scientist!<br/>
+Want to work as a Data Analyst!<br/>
 Contact me if you are interested in me or the project!<br/>
 
 안녕하세요!<br/>
-데이터 분석가/데이터 사이언티스트를 희망합니다.<br/>
-주저말고 연락주세요!<br/><br/>
+데이터 분석가를 희망합니다.<br/>
+저 또는 프로젝트에 관심이 있으시다면 주저말고 연락주세요!📞<br/><br/>
 
 <!--소개-->
 ## **Contact 📞**
@@ -48,11 +48,13 @@ Contact me if you are interested in me or the project!<br/>
 <br/>
 
 <!--포트폴리오-->
- ## **Porfolio 🧑‍💻**
+ ## **Projects 🧑‍💻**
+ 👷
 <br/>
 
 <!--이력서-->
  ## **Resume 📋**
+ 👷
 <br/>
 
 
