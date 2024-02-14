@@ -46,11 +46,15 @@ Contact me if you are interested in me or the project!<br/>
  ## **Porfolio 🧑‍💻**
 <br/>
 
+<!--이력서-->
+ ## **Resume 📋**
+<br/>
+
 <!--소개-->
 ## **Contact 📞**
-<a href="skyoon7899@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="mailto:skyoon7899@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="http://bit.ly/skyoon7899k" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/skyoon7899" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/skyoon7899" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 <br/>
 
 
