@@ -59,20 +59,21 @@ Contact me if you are interested in me or the project!
 
 
 - **Final Project : 패스트캠퍼스 실제 데이터 분석** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Final" target="_blank"><img src="https://img.shields.io/badge/Link-181717?style=flat&logo=github&logoColor=white"/></a>   
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/MicrosoftExcel-217346?style=flat&logo=microsoftexcel&logoColor=white"/><img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+><img src="https://img.shields.io/badge/MicrosoftExcel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
+><img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
 
 
 - **E-commerce** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce" target="_blank"><img src="https://img.shields.io/badge/Link-181717?style=flat&logo=github&logoColor=white"/></a>
 
-> **E-commerce : '다잇다' 가상 쇼핑몰 데이터 분석** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce/Task2" target="_blank"><img src="https://img.shields.io/badge/Link-181717?style=flat&logo=github&logoColor=white"/></a>
->
+    - **'다잇다' 가상 쇼핑몰 데이터 분석** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce/Task2" target="_blank"><img src="https://img.shields.io/badge/Link-181717?style=flat&logo=github&logoColor=white"/></a>
 ><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 ><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 ><img src="https://img.shields.io/badge/MicrosoftExcel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
 ><img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
 >
-> **E-commerce : 온라인 커머스 데이터 분석** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce/Task1" target="_blank"><img src="https://img.shields.io/badge/Link-181717?style=flat&logo=github&logoColor=white"/></a>
->
+    - **E-commerce : 온라인 커머스 데이터 분석** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce/Task1" target="_blank"><img src="https://img.shields.io/badge/Link-181717?style=flat&logo=github&logoColor=white"/></a>
 ><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 ><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 ><img src="https://img.shields.io/badge/MicrosoftExcel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
