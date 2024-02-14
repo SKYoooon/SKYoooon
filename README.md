@@ -1,10 +1,12 @@
 
 <!-- 헤더 -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Welcome!&textBg=false&animation=fadeIn&desc=SK.Yoon's%20GitHub&fontSize=100&descAlignY=25" />
-<div align=center>
-<!--소개-->
 
-## Introduction :raised_hands:
+<div align=center>
+
+
+<!--소개-->
+## **Introduction :raised_hands:**
 Hi, I am SK Yoon.<br/>
 Want to work as a Data Analyst/Data Scientist!<br/>
 Contact me if you are interested in me or the project!<br/>
@@ -13,10 +15,10 @@ Contact me if you are interested in me or the project!<br/>
 데이터 분석가/데이터 사이언티스트를 희망합니다.<br/>
 주저말고 연락주세요!<br/><br/>
 
-Email : skyoon7899@gmail.com<br/>
+:e_mail: : skyoon7899@gmail.com<br/>
 
-<!--skill-->
- ## Skills :keyboard:
+<!--스킬-->
+ ## **Skills :keyboard:**
 
 <!--뱃지-->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -41,7 +43,6 @@ Email : skyoon7899@gmail.com<br/>
 <img src="https://img.shields.io/badge/MicrosoftPowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
 <br/>
-
 
 
 
