@@ -24,7 +24,8 @@ Contact me if you are interested in me or the project!
 
 <!--스킬-->
  # **Skills :keyboard:**
- Mainly Uses   
+ Mainly Uses
+<br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <br/>
@@ -33,7 +34,6 @@ Contact me if you are interested in me or the project!
 <img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
 <br/>
-
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
@@ -41,7 +41,6 @@ Contact me if you are interested in me or the project!
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
 <br/>
-
 <img src="https://img.shields.io/badge/MicrosoftExcel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/MicrosoftPowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
@@ -49,7 +48,9 @@ Contact me if you are interested in me or the project!
 <br/>
 <br/>
 
-Used at Least Once   
+Used at Least Once
+<br/>
+
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
@@ -74,7 +75,6 @@ Used at Least Once
 
 
 - **Final Project : 패스트캠퍼스 실제 데이터 분석** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Final" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
-<br/>
     - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/><img src="https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white"/><img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
 
 - **E-commerce** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
