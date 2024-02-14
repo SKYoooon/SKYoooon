@@ -23,8 +23,8 @@ Contact me if you are interested in me or the project!
 <br/>
 
 <!--스킬-->
- # **Skills :keyboard:**
- Mainly Uses
+# **Skills :keyboard:**
+Mainly Uses
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <br/>
@@ -50,10 +50,10 @@ Used at Least Once
 
 
 <!--프로젝트-->
- # **Projects 🧑‍💻**
+# **Projects 🧑‍💻**
 </div>
 
-### **FastCampus ByteDegree EXPORT** <a href="https://github.com/SKYoooon/EXPORT/tree/main" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
+### **- FastCampus ByteDegree EXPORT** <a href="https://github.com/SKYoooon/EXPORT/tree/main" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
 
 
 - **Final Project : 패스트캠퍼스 실제 데이터 분석** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Final" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
