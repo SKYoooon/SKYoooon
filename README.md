@@ -51,6 +51,21 @@ Contact me if you are interested in me or the project!<br/>
  # **Projects 🧑‍💻**
  **👷🚧**<br/>
 
+## [FastCampus ByteDegree EXPORT](https://github.com/SKYoooon/EXPORT/tree/main)
+
+> **[Final Project : 패스트캠퍼스 실제 데이터 분석](https://github.com/SKYoooon/EXPORT/tree/main/Final)**
+>> - Language : Python3, MySQL
+>> - Tool : 
+> **[E-commerce](https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce)**
+>> [E-commerce : '다잇다' 가상 쇼핑몰 데이터 분석 ](https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce)
+>>> - Language : Python3, MySQL
+>>> - Tool : 
+>> [E-commerce : 온라인 커머스 데이터 분석 ](https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce/Task1)
+>>> - Language : Python3, MySQL
+>>> - Tool : 
+
+<br />
+
 <br/>
 
 
