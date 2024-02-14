@@ -49,19 +49,19 @@ Contact me if you are interested in me or the project!<br/>
 
 <!--프로젝트-->
  # **Projects 🧑‍💻**
- **👷🚧**<br/>
+깃허브 버튼 **클릭** 시 해당 링크로 이동됩니다.
 
-## [FastCampus ByteDegree EXPORT](https://github.com/SKYoooon/EXPORT/tree/main)
+### **FastCampus ByteDegree EXPORT** <a href="https://github.com/SKYoooon/EXPORT/tree/main" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 
-### [Final Project : 패스트캠퍼스 실제 데이터 분석](https://github.com/SKYoooon/EXPORT/tree/main/Final)**
+#### **Final Project : 패스트캠퍼스 실제 데이터 분석** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Final" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 - Language : Python3, MySQL
 - Tool : 
 
-### [E-commerce](https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce)**
-#### [E-commerce : '다잇다' 가상 쇼핑몰 데이터 분석 ](https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce)
+#### **E-commerce** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+##### **E-commerce : '다잇다' 가상 쇼핑몰 데이터 분석** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce/Task2" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 - Language : Python3, MySQL
 - Tool : 
-#### [E-commerce : 온라인 커머스 데이터 분석 ](https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce/Task1)
+##### **E-commerce : 온라인 커머스 데이터 분석** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce/Task1" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 - Language : Python3, MySQL
 - Tool : 
 
@@ -76,7 +76,7 @@ Contact me if you are interested in me or the project!<br/>
 <!--이력서-->
  # **Resume 📋**
  **👷🚧**
- 프로젝트명 클릭시 해당 깃허브로 이동됩니다.
+
 
 
 <br/>
