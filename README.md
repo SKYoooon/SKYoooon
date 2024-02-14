@@ -50,7 +50,7 @@ Contact me if you are interested in me or the project!<br/>
 <!--프로젝트-->
  # **Projects 🧑‍💻**
 
-### **- FastCampus ByteDegree EXPORT** <a href="https://github.com/SKYoooon/EXPORT/tree/main" target="_blank"><img src="logo=github&logoColor=white"/></a>
+### **- FastCampus ByteDegree EXPORT** <a href="https://github.com/SKYoooon/EXPORT/tree/main" target="_blank"><img src="https://img.shields.io/badge/181717?style=flat&logo=github&logoColor=white"/></a>
 
 #### **Final Project : 패스트캠퍼스 실제 데이터 분석** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Final" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 
