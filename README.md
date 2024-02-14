@@ -6,7 +6,7 @@
 
 
 <!--소개-->
-## **Introduction :raised_hands:**
+# **Introduction :raised_hands:**
 Hi, I am SK Yoon.<br/>
 Want to work as a Data Analyst!<br/>
 Contact me if you are interested in me or the project!<br/>
@@ -16,14 +16,14 @@ Contact me if you are interested in me or the project!<br/>
 저 또는 프로젝트에 관심이 있으시다면 주저말고 연락주세요!📞<br/><br/>
 
 <!--소개-->
-## **Contact 📞**
+# **Contact 📞**
 <a href="mailto:skyoon7899@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="http://bit.ly/skyoon7899k" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/skyoon7899" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 <br/>
 
 <!--스킬-->
- ## **Skills :keyboard:**
+ # **Skills :keyboard:**
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <br/>
@@ -47,17 +47,25 @@ Contact me if you are interested in me or the project!<br/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
 <br/>
 
-<!--포트폴리오-->
- ## **Projects 🧑‍💻**
- **👷🚧**
+<!--프로젝트-->
+ # **Projects 🧑‍💻**
+ **👷🚧**<br/>
+
 <br/>
+
+
+
+
 
 <!--이력서-->
- ## **Resume 📋**
+ # **Resume 📋**
  **👷🚧**
+ 프로젝트명 클릭시 해당 깃허브로 이동됩니다.
+
+
 <br/>
 
 
 
-
+---
 </div>
