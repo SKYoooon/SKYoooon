@@ -25,6 +25,11 @@ Contact me if you are interested in me or the project!<br/>
 
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white"/>
-
 <br/>
+
+<img src="https://img.shields.io/badge/MicrosoftExcel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MicrosoftPowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+<br/>
+
 </div>
