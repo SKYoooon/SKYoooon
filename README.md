@@ -9,6 +9,12 @@ Hi, I am SK Yoon.<br/>
 Want to work as a Data Analyst/Data Scientist!<br/>
 Contact me if you are interested in me or the project!<br/>
 
+안녕하세요!<br/>
+데이터 분석가/데이터 사이언티스트를 희망합니다.<br/>
+주저말고 연락주세요!<br/><br/>
+
+Email : skyoon7899@gmail.com<br/>
+
 <!--skill-->
  ## Skills :keyboard:
 
