@@ -7,9 +7,6 @@
 
 <!--소개-->
 # **Introduction :raised_hands:**
-Hi, I am SK Yoon.   
-Want to work as a Data Analyst!   
-Contact me if you are interested in me or the project!   
 
 안녕하세요!   
 데이터 분석가를 희망합니다.   
