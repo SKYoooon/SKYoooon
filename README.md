@@ -23,15 +23,19 @@ Email : skyoon7899@gmail.com<br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <br/>
 
+
 <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
 <br/>
 
+
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white"/>
+<br/><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 <br/>
+
 
 <img src="https://img.shields.io/badge/MicrosoftExcel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/MicrosoftPowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/>
