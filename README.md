@@ -10,9 +10,9 @@ Want to work as a Data Analyst/Data Scientist!<br/>
 Contact me if you are interested in me or the project!<br/>
 
 <!--skill-->
- ## Skills :four_leaf_clover:
+ ## Skills :keyboard:
 
-<!--프론트-->
+<!--뱃지-->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <br/>
@@ -31,5 +31,8 @@ Contact me if you are interested in me or the project!<br/>
 <img src="https://img.shields.io/badge/MicrosoftPowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
 <br/>
+
+
+
 
 </div>
