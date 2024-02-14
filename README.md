@@ -49,12 +49,12 @@ Contact me if you are interested in me or the project!<br/>
 
 <!--포트폴리오-->
  ## **Projects 🧑‍💻**
- 👷
+ **👷🚧**
 <br/>
 
 <!--이력서-->
  ## **Resume 📋**
- 👷
+ **👷🚧**
 <br/>
 
 
