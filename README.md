@@ -15,8 +15,6 @@ Contact me if you are interested in me or the project!<br/>
 데이터 분석가/데이터 사이언티스트를 희망합니다.<br/>
 주저말고 연락주세요!<br/><br/>
 
-📬 : skyoon7899@gmail.com<br/>
-
 <!--스킬-->
  ## **Skills :keyboard:**
 
@@ -44,6 +42,16 @@ Contact me if you are interested in me or the project!<br/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
 <br/>
 
+<!--포트폴리오-->
+ ## **Porfolio 🧑‍💻**
+<br/>
+
+<!--소개-->
+## **Contact 📞**
+<a href="skyoon7899@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="http://bit.ly/skyoon7899k" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/skyoon7899" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+<br/>
 
 
 </div>
