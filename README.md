@@ -50,7 +50,7 @@ Contact me if you are interested in me or the project!
 <br/>
 <br/>
 
-Used at Least Once 
+Used at Least Once   
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
