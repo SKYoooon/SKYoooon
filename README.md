@@ -89,7 +89,7 @@ Used at Least Once
         - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white"/> <img src="https://img.shields.io/badge/MicrosoftExcel-217346?style=flat&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/MicrosoftPowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/>
 
 
-### **- 서울대학교 빅데이터 핀테크 전문가 과정 ** <a href="https://github.com/SKYoooon/SNU_Fintech" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
+### **- 서울대학교 빅데이터 핀테크 전문가 과정** <a href="https://github.com/SKYoooon/SNU_Fintech" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
 
 
 - **캡스톤 프로젝트 : 전기 이륜차 배터리 재고 최적화 및 관리 지표 시각화(Grid,3D)**
