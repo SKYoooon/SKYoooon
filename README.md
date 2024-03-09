@@ -89,7 +89,20 @@ Used at Least Once
         - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white"/> <img src="https://img.shields.io/badge/MicrosoftExcel-217346?style=flat&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/MicrosoftPowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/>
 
 
+### **- 서울대학교 빅데이터 핀테크 전문가 과정 ** <a href="https://github.com/SKYoooon/SNU_Fintech" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
 
+
+- **캡스톤 프로젝트 : 전기 이륜차 배터리 재고 최적화 및 관리 지표 시각화(Grid,3D)**
+    - 전기 이륜차 및 스테이션 현황 분석
+    - 배터리 충전소 현황 대시보드 생성
+- **식재료 이미지 인식을 통한 레시피 추천 모델 제작**
+    - YOLO v5,v6,v7,v8 성능 비교 및 v8 실시간 시연
+- **카드 이탈 고객 예상 모델 제작**
+    - LGBM 재현율 93.3% / 정확도 97.9% 달성, 이전 기수 대비 1.7%p / 4.2%p 상승
+- **P2P 대출 업체 수익 극대화 모델 제작**
+    - RandomForest 수익률 9.28% 달성, 기존 대비 2%p 상승
+- **일자리와 부동산 가격의 상관관계 시각화**
+    - Streamlit 대시보드 생성, Bar Chart Race / Bubble Scatter Plot 등 다양한 시각화
 <br/>
 <br/>
 
