@@ -58,11 +58,11 @@ Used at Least Once
 
 - **E-commerce** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
 
-    - **'다잇다' 가상 쇼핑몰 데이터 분석** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce/Task2" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
+    - **'고객 추가 구매 유도 방안 수립** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce/Task2" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
 
         - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
     
-    - **온라인 커머스 데이터 분석** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce/Task1" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
+    - **온라인 커머스 고객 코호트 및 RFM 분석** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce/Task1" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
 
         - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 
@@ -91,6 +91,7 @@ Used at Least Once
 
 ### **- 서울대학교 빅데이터 핀테크 전문가 과정** <a href="https://github.com/SKYoooon/SNU_Fintech" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
 
+ **👷🚧작업 중!**
 
 - **캡스톤 프로젝트 : 전기 이륜차 배터리 재고 최적화 및 관리 지표 시각화(Grid,3D)**
     - 전기 이륜차 및 스테이션 현황 분석
@@ -110,11 +111,6 @@ Used at Least Once
 
 
 <div align=center>
-
-<!--이력서-->
- # **Resume 📋**
- **👷🚧작업 중!**
-
 
 
 <br/>
