@@ -89,7 +89,7 @@ Used at Least Once
         - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white"/> <img src="https://img.shields.io/badge/MicrosoftExcel-217346?style=flat&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/MicrosoftPowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/>
 
 
-### **- 서울대학교 빅데이터 핀테크 전문가 과정** 
+### **- 서울대학교 빅데이터 핀테크 전문가 과정** <a href="https://github.com/SKYoooon/SNU_Fintech" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
 
 - **1. 일자리와 부동산 가격의 상관관계 시각화** <a href="https://github.com/SKYoooon/SNU_Fintech/tree/main/01.Visualization" target="_blank"> <img src="https://img.shields.io/badge/Link-1F2544"/> </a>
 
@@ -99,7 +99,7 @@ Used at Least Once
 - **2. P2P 대출 업체 부도 고객 예측 모델 제작** <a href="https://github.com/SKYoooon/SNU_Fintech/tree/main/02.P2P_Lending" target="_blank"> <img src="https://img.shields.io/badge/Link-1F2544"/> </a>
 
   - RandomForest 수익률 9.28% 달성, 기존 대비 2%p 상승
-  - 역할 : 데이터 전처리, 시각화
+  - 역할 : 도메인 조사, 데이터 전처리, 시각화
 
 - **3. 카드 이탈 고객 예측 모델 제작** <a href="https://github.com/SKYoooon/SNU_Fintech/tree/main/03.CardChurn" target="_blank"> <img src="https://img.shields.io/badge/Link-1F2544"/> </a>
 
@@ -109,12 +109,12 @@ Used at Least Once
 - **4. 식재료 이미지 인식을 통한 레시피 추천 모델 제작** <a href="https://github.com/SKYoooon/SNU_Fintech/tree/main/04.Food_Ingredient_Recognition(YOLO)" target="_blank"> <img src="https://img.shields.io/badge/Link-1F2544"/> </a>
 
   - YOLO v5~8 비교 및 v8 실시간 시연
-  - 역할 : 데이터 확보, PPT 제작, 시연 발표
+  - 역할 : 데이터 확보, 도우미 코드 작성, PPT 제작, 시연 발표
 
 - - **5. 전기 이륜차 배터리 재고 최적화** <a href="https://github.com/SKYoooon/SNU_Fintech/tree/main/05.Capstone" target="_blank"> <img src="https://img.shields.io/badge/Link-1F2544"/> </a>
 
   - 캡스톤 우수 발표상 수상
-  - 역할 : 기획, 데이터 전처리, 시각화, PPT 제작
+  - 역할 : 기획, 데이터 전처리, 3D 시각화, 대시보드 작성, PPT 제작
 <br/>
 <br/>
 
