@@ -47,33 +47,33 @@ Used at Least Once
 
 
 <!--프로젝트-->
-# **Projects 🧑‍💻**
+# **Projects 🧑‍💻(현재 양식 통일화 진행 중입니다! 노션 참고 부탁드립니다!)**
 </div>
 
 ### **- FastCampus ByteDegree EXPORT** <a href="https://github.com/SKYoooon/EXPORT/tree/main" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
 
 
-- **Final Project : 패스트캠퍼스 실제 데이터 분석** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Final" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
+- **패스트캠퍼스 데이터 분석** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Final" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
     - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
 
 - **E-commerce** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
 
-    - **'고객 추가 구매 유도 방안 수립** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce/Task2" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
+    - **'이커머스 고객 추가 구매 유도 방안 수립** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce/Task2" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
 
         - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
     
-    - **온라인 커머스 고객 코호트 및 RFM 분석** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce/Task1" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
+    - **이커머스 구매 활성화 방안 도출** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Ecommerce/Task1" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
 
         - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 
 
 - **Manufacure** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Manufacture" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
 
-    - **센서 데이터를 통한 웨이퍼 불량 탐색** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Manufacture/Task2" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
+    - **불량 웨이퍼 이상 탐지 모델 개발** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Manufacture/Task2" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
 
         - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
     
-    - **이상탐지(제조,금융,게임)** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Manufacture/Task1" target="_blank"> <img src="https://img.shields.io/badge/Link-1F2544"/></a>
+    - **제조, 금융, 게임 분야 이상 탐지 기본** <a href="https://github.com/SKYoooon/EXPORT/tree/main/Manufacture/Task1" target="_blank"> <img src="https://img.shields.io/badge/Link-1F2544"/></a>
 
         - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 
