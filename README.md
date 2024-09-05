@@ -8,9 +8,7 @@
 <!--소개-->
 # **Introduction :raised_hands:**
 
-안녕하세요!   
-데이터 분석가를 희망합니다.   
-저 또는 프로젝트에 관심이 있으시다면 주저말고 연락주세요!📞<br/><br/>
+📞<br/><br/>
 
 <!--소개-->
 # **Contact 📞**
@@ -47,7 +45,7 @@ Used at Least Once
 
 
 <!--프로젝트-->
-# **Projects 🧑‍💻(현재 양식 통일화 진행 중입니다! 노션 참고 부탁드립니다!)**
+# **Projects 🧑‍💻**
 </div>
 
 ### **- FastCampus ByteDegree EXPORT** <a href="https://github.com/SKYoooon/EXPORT/tree/main" target="_blank"><img src="https://img.shields.io/badge/Link-1F2544"/></a>
